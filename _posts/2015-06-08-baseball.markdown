@@ -1,0 +1,14 @@
+---
+title: Pitch Out Baseball
+subtitle: Apple Watch exclusive action game!
+layout: default
+modal-id: 1
+date: 2015-06-08
+img: baseball.png
+thumbnail: baseball-thumbnail.png
+alt: image-alt
+project-date: June 2015
+client: In-house
+category: Games
+description: Pitch Out Baseball is the best action game for Apple Watch! Step up to the plate and try to hit as many balls in a row as you can. Get a strike, and start over! As your score gets higher, the pitcher will start throwing trickier and faster pitches. Your top scores are recorded on Game Center. Try to get to the top and challenge your friends!
+---

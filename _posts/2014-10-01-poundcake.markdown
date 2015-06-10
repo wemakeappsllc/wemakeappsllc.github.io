@@ -1,9 +1,9 @@
 ---
 title: Poundcake
-subtitle: iOS / Android
+subtitle: iOS / Android anonymous chat room app
 layout: default
-modal-id: 1
-date: 2014-07-18
+modal-id: 2
+date: 2014-10-01
 img: poundcake.png
 thumbnail: poundcake-thumbnail.png
 alt: image-alt
@@ -11,7 +11,7 @@ project-date: April 2014
 url: http://poundcake.me
 website: poundcake.me
 client: In-house
-category: App Development
+category: Social
 description: Conversations - Simple, Anonymous and On Any Topic.
 
 ---
