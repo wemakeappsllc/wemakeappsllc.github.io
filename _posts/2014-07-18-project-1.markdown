@@ -8,6 +8,8 @@ img: poundcake.png
 thumbnail: poundcake-thumbnail.png
 alt: image-alt
 project-date: April 2014
+url: http://poundcake.me
+website: poundcake.me
 client: In-house
 category: App Development
 description: Conversations - Simple, Anonymous and On Any Topic.
