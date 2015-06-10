@@ -1,6 +1,6 @@
 ---
 title: Butter - Contacts Reminders
-subtitle: Stay in touch with the people.
+subtitle: Stay in touch with your people.
 layout: default
 modal-id: 3
 date: 2015-06-10
