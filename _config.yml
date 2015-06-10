@@ -14,38 +14,23 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Jason
   pic: 1
-  position: Lead Designer
+  position: iOS / Apple Watch / UI/UX / Design
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+      url: jasontezanos
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/pub/jason-tezanos/35/702/212
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: Damien
+  pic: 2
+  position: Ruby on Rails / RubyMotion / Databases / Angular
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: dam13n
+    - title: linkedin
+      url: https://www.linkedin.com/in/damiensutevski
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
