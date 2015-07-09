@@ -340,9 +340,18 @@ section h3.section-subheading {
     font-weight: 400;
 }
 
+aside h3.section-subheading {
+    margin-bottom: 0px;
+    text-transform: none;
+    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 400;
+}
+
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        padding: 80px 0;
     }
 }
 
@@ -371,7 +380,7 @@ section h3.section-subheading {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-    background: rgba(128,218,235, .9); /* Fallback when no plugin support */
+    background: rgba(128,218,235,.9); /* Fallback when no plugin support */
     background: rgba({{ site.color.primary | hex_to_rgb | join: ',' }}, .9);
 }
 
