@@ -8,7 +8,9 @@ img: butter.png
 thumbnail: butter-thumbnail.png
 alt: image-alt
 project-date: June 2015
-client: In-house
+url: http://butterapp.co
+website: Butter Website
+itunes: https://itunes.apple.com/us/app/butter-contacts-reminders/id966767988?ls=1&mt=8
 category: Productivity
 description: Butter lets you easily set up reminders to keep in touch with your business and personal contacts. Set up weekly, bi-weekly, monthly, or quarterly reminders to get you keeping your connections fresh. Butter can remind you via Email or Push Notifications. It's easy to launch butter and stay up to date with what is happening in your network. Upgrade Butter to get full access to unlimited reminders!
 
