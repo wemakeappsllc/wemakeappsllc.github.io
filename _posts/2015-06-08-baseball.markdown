@@ -10,5 +10,13 @@ alt: image-alt
 project-date: June 2015
 itunes: https://itunes.apple.com/us/app/pitch-out-baseball/id1000405737?mt=8
 category: Games
+
+reviews: [
+  ['WatchAware - "Pitch Out" Shows Hope For Gaming On Apple Watch', 'http://watchaware.com/post/15087/pitch-out-shows-hope-for-gaming-on-apple-watch' ],
+  ["Product Hunt - Pitch Out Baseball for Apple Watch: Tap to score homeruns - how many can you get in a row?","http://www.producthunt.com/games/pitch-out-baseball-for-apple-watch"]
+]
+
 description: Pitch Out Baseball is the best action game for Apple Watch! Step up to the plate and try to hit as many balls in a row as you can. Get a strike, and start over! As your score gets higher, the pitcher will start throwing trickier and faster pitches. Your top scores are recorded on Game Center. Try to get to the top and challenge your friends!
+
+product_hunt: true
 ---

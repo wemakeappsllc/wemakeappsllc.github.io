@@ -19,6 +19,15 @@
                             {% if post.url %}<a href="{{post.url}}">{{ post.website }}</a>{% endif %}
                             {% if post.itunes %}<br/><a href="{{post.itunes}}">Check out {{ post.title }} on iTunes!</a>{% endif %}
                             {% if post.android %}<br/><a href="{{post.android}}">Check out {{ post.title }} on the Play Store!</a>{% endif %}
+                            {% if post.reviews %}
+                                <br/><br/>
+                                {% for review in post.reviews %}
+                                    <a href="{{review[1]}}">{{ review[0] }}</a><br/><br/>
+
+                                {% endfor %}
+                            {% endif %}
+                            <br/>
+                            <br/>
                             <ul class="list-inline item-details">
                               {% if post.client %}
                                 <li>Client:
