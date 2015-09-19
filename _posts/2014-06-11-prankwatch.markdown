@@ -16,4 +16,6 @@ reviews: [
 ]
 category: Social Networking
 description: Prank Watch! The single best prank app for your shiny new Apple Watch. Want to play a few tricks on your friends? Simply place your phone somewhere hidden, and use your Apple Watch to trigger the funny sounds.
+
+watch_aware: true
 ---

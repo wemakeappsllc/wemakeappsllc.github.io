@@ -1,8 +1,14 @@
-.product-hunt {
-
+.ext-logos {
   position: absolute;
-  right: 5px;
-  top: 5px;
+  width: 100%;
+  height: 100%;
+}
+
+.ext-logo {
+
+  float: right;
+  margin: 5px;
+  /*top: 5px;*/
   height: 30px;
   width: 30px;
 }

@@ -11,9 +11,14 @@
             {% for post in site.posts %}
                 <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
-                        {% if post.product_hunt %}
-                            <img class="product-hunt" src="img/logos/producthunt.png">
-                        {% endif %}
+                        <div class="ext-logos">
+                            {% if post.product_hunt %}
+                                <img class="ext-logo" src="img/logos/producthunt.png">
+                            {% endif %}
+                            {% if post.watch_aware %}
+                                <img class="ext-logo" src="img/logos/watchaware.png">
+                            {% endif %}
+                        </div>
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
                                 <i class="fa fa-plus fa-3x"></i>
